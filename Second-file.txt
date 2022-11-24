@@ -1,2 +1,3 @@
 Hello this is my second file in git -modification 
 -new modification
+-new modification in the newfile branch
