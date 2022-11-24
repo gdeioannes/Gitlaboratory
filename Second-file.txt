@@ -1,1 +1,2 @@
-Hello this is my second file in git -modification
+Hello this is my second file in git -modification 
+-new modification
